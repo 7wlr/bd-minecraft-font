@@ -1,6 +1,6 @@
 # MinecraftFont
 
-**MinecraftFont** is a simple Discord plugin that gives your messages a retro Minecraft-style font. If you love the iconic pixelated text from Minecraft, this plugin brings that same nostalgic feel to your Discord.
+**MinecraftFont** is a simple Discord plugin that gives your messages a minecraft font
 
 ---
 
